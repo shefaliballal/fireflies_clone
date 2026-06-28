@@ -211,6 +211,4 @@ Example:
 
 B.M.S. College of Engineering
 
----
 
-**Built as part of a Full-Stack Software Engineering assignment inspired by Fireflies.ai.**
