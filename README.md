@@ -208,7 +208,6 @@ Example:
 
 **Shefali Ballal**
 
-Final Year – Information Science & Engineering
 
 B.M.S. College of Engineering
 
