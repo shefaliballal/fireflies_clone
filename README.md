@@ -101,9 +101,9 @@ fireflies_clone
 ## Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/fireflies-ai-clone.git
+git clone https://github.com/<your-username>/fireflies_clone.git
 
-cd fireflies-ai-clone
+cd fireflies_clone
 ```
 
 ---
@@ -190,17 +190,10 @@ http://localhost:3000
 
 ---
 
-# 📸 Screenshots
+# 📸 Screenshots and video recordings
 
-Add screenshots here before submission if required.
-
-Example:
-
-* Dashboard
-* Meeting Details
-* Upload Flow
-* Transcript Viewer
-* Action Items
+Drive link: https://drive.google.com/file/d/1qcjKfU0jEmiK3Hd2qF5UGma5unXu7j64/view?usp=sharing
+<img width="2048" height="1157" alt="1e3382dc-9ec4-4073-8867-457a470fe474" src="https://github.com/user-attachments/assets/814c581d-c6e7-4aa6-a47b-03236606e5f5" />
 
 ---
 
